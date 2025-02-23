@@ -3,7 +3,7 @@
 📌 **Authors**: Lakshmi V. B., K. B. Sivachandra, Aparajitha Devi Suggula, S. Abhishek, T. Anjali  
 📅 **Conference**: 2024 International Conference on Expert Clouds and Applications (**ICOECA**)  
 📜 **Published by**: IEEE  
-📄 **DOI**: [Insert DOI Here] *(Replace with actual DOI link when available)*  
+📄 **DOI**: [10.1109/ICOECA62351.2024.00158] *(10.1109/ICOECA62351.2024.00158)*  
 
 ---
 
