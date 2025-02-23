@@ -46,15 +46,6 @@ This study presents a **Clinical Decision Support System (CDSS) for Chronic Kidn
 3. **Model Processing**: ML/DL-based CKD risk assessment  
 4. **Output**: Predicted CKD stage with confidence score  
 
-### 📌 Example Prediction:  
-| **Patient ID** | **Creatinine (mg/dL)** | **eGFR (mL/min/1.73m²)** | **CKD Stage** | **Confidence Score** |
-|---------------|------------------|--------------------|------------|------------------|
-| 1001 | 1.8 | 45 | Stage 3 | 91.2% |
-| 1002 | 3.5 | 25 | Stage 4 | 87.6% |
-| 1003 | 6.2 | 12 | Stage 5 (ESRD) | 95.4% |
-
-📢 _Note: Replace with actual model predictions._
-
 ---
 
 ## 📖 Citation  
